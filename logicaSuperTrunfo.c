@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main() {
@@ -31,7 +32,7 @@ int main() {
     printf("Informe a Area (em km²): ");
     scanf(" %f", &area1);
 
-    printf("Informe o PIB (em bilhoes de reais): ");
+    printf("Informe o PIB (em bilhões de reais): ");
     scanf(" %f", &pib1);
 
      printf("Informe o Numero de Pontos Turisticos: ");
@@ -71,7 +72,7 @@ int main() {
     printf("Informe a Area (em km²): ");
     scanf("%f", &area2);
 
-    printf("Informe o PIB (em bilhoes de reais): ");
+    printf("Informe o PIB (em bilhões de reais): ");
     scanf("%f", &pib2);
 
     printf("Informe o Numero de Pontos Turisticos: ");
